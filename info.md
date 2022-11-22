@@ -12,3 +12,4 @@
 
 > * git branch – посмотреть список веток в репозитории
 > * git commit -am “message” – добавление файлов в отслеживание и создание коммита.
+> * git commit -am 'message' - 'git add .' + 'git commit -m 'message''
