@@ -15,3 +15,5 @@
 > * git branch <branch_name> - создание ветки с названием branch_name
 > * git commit -am 'message' - 'git add .' + 'git commit -m 'message''
 > * git checkout <branch_name> – переход к другой ветке
+> * git checkout  -b <название ветки> - создание ветки и переход к ней
+> * git branch -d <branch_name> – удалить ветку 'branch_name'
