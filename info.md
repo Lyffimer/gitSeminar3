@@ -19,3 +19,6 @@
 > * git branch -d <branch_name> – удалить ветку 'branch_name'
 
 ![](https://gbcdn.mrgcdn.ru/uploads//post/3026/image/medium-2e7d61222a85551d7fd8e38d8d13d70a.png)
+
+# Основные команды 3 семинара  
+
